@@ -7,6 +7,7 @@ import Testimonials from '../components/Testimonials';
 import FAQ from '../components/FAQ';
 import Pricing from '../components/Pricing';
 import Footer from '../components/Footer';
+import { COMPANY_INFO } from '../constants';
 
 const Home: React.FC = () => {
   return (
@@ -22,7 +23,7 @@ const Home: React.FC = () => {
       
       {/* Floating WhatsApp Button for Mobile */}
       <a 
-        href={`https://wa.me/21996919744?text=Olá! Vim pelo site.`}
+        href={`https://wa.me/${COMPANY_INFO.whatsapp}?text=Olá! Vim pelo site.`}
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-6 right-6 md:hidden z-50 bg-green-500 text-white p-4 rounded-full shadow-2xl animate-bounce"

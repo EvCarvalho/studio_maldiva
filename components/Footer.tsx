@@ -14,7 +14,7 @@ const Footer: React.FC = () => {
                 <img 
                     src={IMAGES.LOGO} 
                     alt={COMPANY_INFO.name} 
-                    className="h-16 w-auto object-contain"
+                    className="h-24 w-24 object-cover rounded-full border-4 border-gray-700 shadow-xl"
                 />
             </div>
             <p className="text-gray-400 mb-8 leading-relaxed max-w-md">

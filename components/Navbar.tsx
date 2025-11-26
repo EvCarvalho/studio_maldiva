@@ -41,7 +41,7 @@ const Navbar: React.FC = () => {
           <img 
             src={IMAGES.LOGO} 
             alt={COMPANY_INFO.name} 
-            className="h-12 w-auto object-contain"
+            className="h-14 w-14 object-cover rounded-full shadow-md border-2 border-amber-50 hover:scale-105 transition-transform duration-300"
           />
         </div>
 

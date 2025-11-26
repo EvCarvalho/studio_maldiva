@@ -22,9 +22,6 @@ const Hero: React.FC = () => {
           transition={{ duration: 0.8 }}
           className="text-center md:text-left"
         >
-          <span className="inline-block py-1 px-3 rounded-full bg-amber-100 text-amber-800 text-sm font-semibold tracking-wider mb-4 border border-amber-200">
-            #1 EM BRONZEAMENTO NATURAL
-          </span>
           <h1 className="text-4xl md:text-6xl font-bold text-gray-900 leading-tight mb-6">
             Desperte sua <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-500 to-yellow-600">Autoestima</span> com o Bronze Perfeito
           </h1>
