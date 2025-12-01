@@ -28,7 +28,7 @@ const Footer: React.FC = () => {
               </a>
               <a href={`https://wa.me/${COMPANY_INFO.whatsapp}`} target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-gray-300 hover:text-white transition-colors">
                 <MessageCircle className="text-amber-500" />
-                <span>(21) 99691-9744</span>
+                <span>(21) 96693-4314</span>
               </a>
               <div className="flex items-start gap-3 text-gray-300">
                 <MapPin className="text-amber-500 mt-1 shrink-0" />

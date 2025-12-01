@@ -20,7 +20,7 @@ export const CLIENT_GALLERY = [
 // Content
 export const COMPANY_INFO = {
   name: "Espaço Maldivas",
-  whatsapp: "5521996919744",
+  whatsapp: "5521966934314",
   instagram: "https://instagram.com/espaco_maldiva",
   address: "Rua André Massena 188, Arsenal São Gonçalo, Rio de Janeiro",
   // Direct search query map for better accuracy
