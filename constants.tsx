@@ -15,6 +15,9 @@ export const CLIENT_GALLERY = [
   "/images/client-result-1.jpg",
   "/images/client-result-2.jpg",
   "/images/client-result-3.jpg",
+  "/images/client-result-4.jpg",
+  "/images/client-result-5.jpg",
+  "/images/client-result-6.jpg",
 ];
 
 // Content
