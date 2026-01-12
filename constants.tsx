@@ -8,6 +8,8 @@ export const IMAGES = {
   GIULLY: "/images/giully.png",
   PRODUCT_DETAIL: "/images/product-detail.jpg",
   TANNING_RESULT: "/images/tanning-result.jpg",
+  SKIN_QUALITY_1: "/images/skin-quality-1.jpg",
+  SKIN_QUALITY_2: "/images/skin-quality-2.jpg",
 };
 
 // Galeria de resultados de clientes
